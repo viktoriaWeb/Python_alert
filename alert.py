@@ -1,7 +1,7 @@
 import sqlite3
 import requests
 
-TG_TOKEN = '6609279857:AAGCKwZJE8cH1wKmbO78sHhHowaqGT7JKto'
+TG_TOKEN = '<>'
 bot_name = 'https://t.me/AlertPython3000Bot'
 
 # Create or connect to a SQLite database
